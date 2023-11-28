@@ -1,0 +1,13 @@
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\bin\Debug\books.mdf
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\bin\Debug\books_log.ldf
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\bin\Debug\prodaja_kompov2.exe.config
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\bin\Debug\prodaja_kompov2.exe
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\bin\Debug\prodaja_kompov2.pdb
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.csproj.AssemblyReference.cache
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.Form1.resources
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.Properties.Resources.resources
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.csproj.GenerateResource.cache
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.csproj.CoreCompileInputs.cache
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.exe
+C:\Users\jenya\source\repos\prodaja_kompov2\prodaja_kompov2\obj\Debug\prodaja_kompov2.pdb
